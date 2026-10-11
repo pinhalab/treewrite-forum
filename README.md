@@ -8,10 +8,10 @@
 
 |||
 |---|---|
-|📣 [Announcements]()|Updates from mantainers|
-|💬 [General]()|Chat about anything and everything here|
-|💡 [Ideas]()|Share ideas for new features|
-|🗳️ [Polls]()|Take a vote from the community|
-|🐞 [Problem report]()|Report problems and bugs encountered in TreeWrite|
-|🙏 [Q&A]()|Ask the community for help|
-|🙌 [Show and tell]()|Show off something you've made with TreeWrite|
+|📣 [Announcements](https://github.com/pinhalab/treewrite-forum/discussions/categories/announcements)|Updates from mantainers|
+|💬 [General](https://github.com/pinhalab/treewrite-forum/discussions/categories/general)|Chat about anything and everything here|
+|💡 [Ideas](https://github.com/pinhalab/treewrite-forum/discussions/categories/ideas)|Share ideas for new features|
+|🗳️ [Polls](https://github.com/pinhalab/treewrite-forum/discussions/categories/polls)|Take a vote from the community|
+|🐞 [Problem report](https://github.com/pinhalab/treewrite-forum/discussions/categories/problem-report)|Report problems and bugs encountered in TreeWrite|
+|🙏 [Q&A](https://github.com/pinhalab/treewrite-forum/discussions/categories/problem-report)|Ask the community for help|
+|🙌 [Show and tell](https://github.com/pinhalab/treewrite-forum/discussions/categories/show-and-tell)|Show off something you've made with TreeWrite|
