@@ -4,6 +4,8 @@
 
 🍃 Public forum for discussing any aspect of TreeWrite
 
+[Forum](https://github.com/pinhalab/treewrite-forum/discussions) • [Code of Conduct]() • [TreeWrite](https://treewrite.app)
+
 </div>
 
 |||
