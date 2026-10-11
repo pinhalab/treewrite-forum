@@ -1,5 +1,7 @@
 <div align="center">
 
+<img alt="TreeWrite Forum" src="https://github.com/user-attachments/assets/7d0fba51-07f9-4fd5-976b-2a9bf90ccb51" />
+
 # 🌳 [TreeWrite](https://treewrite.app) Forum
 
 🍃 Public forum for discussing any aspect of TreeWrite
