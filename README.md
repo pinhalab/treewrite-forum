@@ -1,6 +1,8 @@
 <div align="center">
 
-<img alt="TreeWrite Forum" src="https://github.com/user-attachments/assets/028941a6-8dca-41fc-aa9b-09f78e9e7fc2" />
+<a href="https://github.com/pinhalab/treewrite-forum/discussions">
+  <img alt="TreeWrite Forum" src="https://github.com/user-attachments/assets/028941a6-8dca-41fc-aa9b-09f78e9e7fc2" />
+</a>
 
 # [TreeWrite](https://treewrite.app) Forum
 
