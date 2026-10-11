@@ -8,7 +8,7 @@
 
 </div>
 
-|||
+|Categories||
 |---|---|
 |📣 [Announcements](https://github.com/pinhalab/treewrite-forum/discussions/categories/announcements)|Updates from mantainers|
 |💬 [General](https://github.com/pinhalab/treewrite-forum/discussions/categories/general)|Chat about anything and everything here|
